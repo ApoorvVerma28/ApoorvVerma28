@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning - Wed  Development 
 
-- 👨‍💻 All of my projects are available at [my GitHub account👨‍💻](my GitHub account👨‍💻)
+- 👨‍💻 All of my projects are available at my GitHub account👨‍💻
 
 - 📫 How to reach me **rishuverma870735@gmail.com**
 
