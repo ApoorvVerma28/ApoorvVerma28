@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at my GitHub account👨‍💻
 
-- 📫 How to reach me **rishuverma870735@gmail.com**
+- 📫 How to reach me **apoorvverma73@gmail.com**
 
 - ⚡ Fun fact - **I think I'm facetious😁**
 
