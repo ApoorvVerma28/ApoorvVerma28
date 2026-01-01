@@ -1,127 +1,88 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Apoorv+Verma;Frontend+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
-</div>
-
-<h3 align="center">🚀 A passionate developer from Lucknow, India 🇮🇳</h3>
+<h1 align="center">Hi 👋, I'm Apoorv Verma</h1>
+<h3 align="center">Frontend Developer • JavaScript • React • MERN Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=apoorvverma28&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/apoorvverma28?label=Followers&style=for-the-badge&color=green" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=apoorvverma28&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-```javascript
-const apoorv = {
-    location: "Lucknow, India",
-    currentFocus: "Web Development",
-    learning: ["React", "Node.js", "MySQL", "Python"],
-    funFact: "I think I'm facetious 😁",
-    askMeAbout: ["Web Dev", "Frontend", "Backend", "APIs"],
-    reachMe: "apoorvverma73@gmail.com"
-};
-```
-
-- 🔭 I'm currently working on **Full Stack Projects**
-- 🌱 I'm currently learning **Web Development & Backend Technologies**
-- 👨‍💻 All of my projects are available at **[GitHub](https://github.com/apoorvverma28)**
-- 💬 Ask me about **React, JavaScript, Node.js, MySQL**
-- 📫 Reach me at **apoorvverma73@gmail.com**
-- ⚡ Fun fact: **I think I'm facetious 😁**
+- 🚀 Frontend Developer focused on **clean UI, scalability, and real-world products**
+- 🌱 Currently learning **Full Stack Development (MERN + SQL)**
+- 🧠 Strong interest in **system design, business logic, and performance**
+- 🛠️ I prefer **building things that actually get used**, not just demo projects
+- ⚡ Fun fact: *I enjoy writing logic more than animations 😄*
 
 ---
 
-### 🌐 Connect with Me
+### 🔗 Connect With Me
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/apoorv-verma-165758250/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
   </a>
   <a href="https://www.instagram.com/apoorv_vermaa/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="mailto:apoorvverma73@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40"/>
   </a>
 </p>
 
----
-
-### 🛠️ Languages & Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,html,css,react,nodejs,express,tailwind,firebase,mysql,git,github,vscode,redux" alt="Skills" />
-</p>
-
-<details>
-<summary><b>📊 Detailed Tech Stack</b></summary>
-<br>
-
-**Frontend:**
-- JavaScript (ES6+), HTML5, CSS3
-- React.js, Redux Toolkit
-- Tailwind CSS
-
-**Backend:**
-- Node.js, Express.js
-- Python
-
-**Database:**
-- MySQL
-- Firebase
-
-**Tools & Others:**
-- Git & GitHub
-- VS Code
-- RESTful APIs
-
-</details>
+📫 **Email:** `apoorvverma73@gmail.com`
 
 ---
 
-### 📊 GitHub Statistics
+### 🛠️ Tech Stack
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=apoorvverma28&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=apoorvverma28&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+#### 🚀 Frontend
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
 </p>
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvverma28&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+#### ⚙️ Backend & Database
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
+</p>
+
+#### 🧠 Programming & State Management
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" width="40"/>
+</p>
+
+#### 🔧 Tools
+<p>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" width="40"/>
 </p>
 
 ---
 
-### 📈 Contribution Graph
+### 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=apoorvverma28&show_icons=true&layout=compact" />
+</p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=apoorvverma28&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=apoorvverma28&show_icons=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=apoorvverma28" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+### 💡 What I Care About
+- Writing **maintainable code**
+- Understanding **why**, not just **how**
+- Growing from *frontend-only* to **full-stack problem solver**
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=apoorvverma28&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</p>
-
-<div align="center">
-  
-### Show some ❤️ by starring some of my repositories!
-
-</div>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+⭐ If you like my work, consider starring a repo — it actually helps more than you think.
