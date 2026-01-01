@@ -1,58 +1,127 @@
-<h1 align="center">Hi 👋, I'm Apoorv Verma</h1>
-<h3 align="center">A passionate frontend developer from Lucknow, India</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Apoorv+Verma;Frontend+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=apoorvverma28&label=Profile%20views&color=0e75b6&style=flat" alt="apoorvverma28" /> </p>
+<h3 align="center">🚀 A passionate developer from Lucknow, India 🇮🇳</h3>
 
-- 🌱 I’m currently learning - Web Development 
-
-- 👨‍💻 All of my projects are available at my GitHub account👨‍💻
-
-- 📫 How to reach me **apoorvverma73@gmail.com**
-
-- ⚡ Fun fact - **I think I'm facetious😁**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/apoorv-verma-165758250/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="apoorv verma" height="30" width="40" /></a>
-<a href="https://www.instagram.com/apoorv_vermaa/?next=%2F" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="apoorv_verma_9988" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=apoorvverma28&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/apoorvverma28?label=Followers&style=for-the-badge&color=green" alt="followers" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
-  </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/> 
-  </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/> 
-  </a> 
-  <a href="https://redux-toolkit.js.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="Redux Toolkit" width="40" height="40"/> 
-  </a> 
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/> 
-  </a> 
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="Git" width="40" height="40"/> 
-  </a> 
+---
+
+### 👨‍💻 About Me
+
+```javascript
+const apoorv = {
+    location: "Lucknow, India",
+    currentFocus: "Web Development",
+    learning: ["React", "Node.js", "MySQL", "Python"],
+    funFact: "I think I'm facetious 😁",
+    askMeAbout: ["Web Dev", "Frontend", "Backend", "APIs"],
+    reachMe: "apoorvverma73@gmail.com"
+};
+```
+
+- 🔭 I'm currently working on **Full Stack Projects**
+- 🌱 I'm currently learning **Web Development & Backend Technologies**
+- 👨‍💻 All of my projects are available at **[GitHub](https://github.com/apoorvverma28)**
+- 💬 Ask me about **React, JavaScript, Node.js, MySQL**
+- 📫 Reach me at **apoorvverma73@gmail.com**
+- ⚡ Fun fact: **I think I'm facetious 😁**
+
+---
+
+### 🌐 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/apoorv-verma-165758250/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/apoorv_vermaa/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="mailto:apoorvverma73@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=apoorvverma28&show_icons=true&locale=en&layout=compact" alt="apoorvverma28" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=apoorvverma28&show_icons=true&locale=en" alt="apoorvverma28" /></p>
+### 🛠️ Languages & Tools
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=apoorvverma28&" alt="apoorvverma28" /></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,python,html,css,react,nodejs,express,tailwind,firebase,mysql,git,github,vscode,redux" alt="Skills" />
+</p>
+
+<details>
+<summary><b>📊 Detailed Tech Stack</b></summary>
+<br>
+
+**Frontend:**
+- JavaScript (ES6+), HTML5, CSS3
+- React.js, Redux Toolkit
+- Tailwind CSS
+
+**Backend:**
+- Node.js, Express.js
+- Python
+
+**Database:**
+- MySQL
+- Firebase
+
+**Tools & Others:**
+- Git & GitHub
+- VS Code
+- RESTful APIs
+
+</details>
+
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=apoorvverma28&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=apoorvverma28&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apoorvverma28&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=apoorvverma28&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=apoorvverma28&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</p>
+
+<div align="center">
+  
+### Show some ❤️ by starring some of my repositories!
+
+</div>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
