@@ -6,12 +6,6 @@
 
 
 
-<br>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-<br>
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> About Me
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
@@ -33,11 +27,7 @@ const apoorv = {
 };
 ```
 
-<br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-<br>
 
 ## <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmQ3MGUyMGE0YWY4MzJhZjgxYzY3ZDQwODM2NTZmYWQyNjg5YjI2ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/LnQjEajSNBVzshQ9yj/giphy.gif" width="35"> Connect with Me
 
@@ -56,11 +46,7 @@ const apoorv = {
   </a>
 </p>
 
-<br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-<br>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Tech Stack & Tools
 
@@ -69,11 +55,7 @@ const apoorv = {
 </p>
 
 
-<br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-<br>
 
 ## 💭 Dev Quote
 
@@ -82,11 +64,7 @@ const apoorv = {
 </p>
 
 
-<br>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-<br>
 
 <div align="center">
   
@@ -96,5 +74,5 @@ const apoorv = {
 
 </div>
 
-<br>
+
 
