@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Apoorv+Verma;Frontend+Developer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Apoorv+Verma;FullStack+Developer;Problem+Solver;Tech+Enthusiast;System+Design" alt="Typing SVG" />
 </div>
 
 <h3 align="center">🚀 A passionate developer from Lucknow, India 🇮🇳</h3>
@@ -17,7 +17,6 @@
 const apoorv = {
     location: "Lucknow, India",
     currentFocus: "Web Development",
-    funFact: "I think I'm facetious 😁",
     askMeAbout: ["Web Dev", "Frontend", "Backend", "APIs", "System Design"],
     reachMe: "apoorvverma73@gmail.com"
 };
@@ -28,7 +27,6 @@ const apoorv = {
 - 👨‍💻 All of my projects are available at **[GitHub](https://github.com/apoorvverma28)**
 - 💬 Ask me about **React, JavaScript, Node.js, MySQL**
 - 📫 Reach me at **apoorvverma73@gmail.com**
-- ⚡ Fun fact: **I think I'm facetious 😁**
 
 ---
 
@@ -93,28 +91,10 @@ const apoorv = {
 
 ---
 
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=apoorvverma28&bg_color=ffffff&color=000000&line=0366d6&point=0366d6&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=apoorvverma28&theme=flat&no-frame=false&row=1&column=7" alt="Trophies" />
-</p>
-
----
-
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="Random Dev Quote"/>
 </p>
 
 <div align="center">
-  
-### Show some ❤️ by starring some of my repositories!
 
 </div>
