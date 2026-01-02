@@ -20,10 +20,10 @@ const apoorv = {
         "🎨 Frontend", 
         "⚙️ Backend", 
         "🔌 APIs", 
-        "🏗️ System Design"
+        "🏗️ System Design",
+        "🗄️ Database & Tools"
     ],
-    reachMe: "📧 apoorvverma73@gmail.com",
-    funFact: "🎭 I think I'm facetious 😁"
+    reachMe: "📧 apoorvverma73@gmail.com"
 };
 ```
 
